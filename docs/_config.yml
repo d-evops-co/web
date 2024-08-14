@@ -56,7 +56,11 @@ header_pages:
   - index.markdown
   - services.markdown
   - about.markdown
-footer: Copyright (c) 2024 The DevOps Company, ABN 35 003 352 291 <br /> <img src="/img/devops_mini.png" alt="The DevOps Company" width="200" style="text-align:left" />  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+footer: >-
+  Copyright (c) 2024 The DevOps Company, ABN 35 003 352 291 <br /> 
+  <img src="/img/devops_mini.png" alt="The DevOps Company" width="200" style="text-align:left" />  
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <a style="visibility: hidden;" rel="me" href="https://mastodon.social/@CloudyOpsPoet" hidden="true">Mastodon</a>
 
 collections:
   services:
