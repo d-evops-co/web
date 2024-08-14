@@ -1,0 +1,48 @@
+---
+layout: post
+title:  ./Welcome to the new company website.
+date:   2024-08-14 12:12:45 +1000
+categories: jekyll update
+---
+Welcome. This is the home of my small business, The DevOps Company. We're based on the traditional land of the Wurundjeri Woi Wurrung and Bunurong people of the Kulin Nation, in Eastern Melbourne in the Democratic Republic of Victoria, Australia
+
+I'm Jason, Principal Engineer and owner, and part of a loose collective of Cloud Professionals with a hankering to make the web better. I've been building and supporting web ventures since the mid-1990s and fiddling with computers for even longer than that. You can find [my business card website here](https://jasbro.io/)
+
+As a small company, we offer a number of different services under some very broad headings:
+
+---
+
+- **Cloud**
+  - Consulting
+  - Architecture
+  - Managed Services
+  - Terraform
+
+- **DevOps**
+  - Consulting
+  - Culture
+  - Build pipeline management
+
+- **Continuous Delivery**
+  - Deployment Pipelines
+  - Octopus Deploy
+  - Health checks and assessments
+
+- **Education and Training**
+  - Terraform Workshops & Coaching
+  - Powershell Workshops & Coaching
+  - Mentorship assistance (via [DevUps.org](https://devups.org/))
+
+- **Content**
+  - Consulting
+  - Proofreading
+  - Editing
+  - Translation (Cymraeg, Deutsch, Nederlands)
+
+--- 
+
+We can be employed on a retainer or hourly basis. If you want the insurance of having a veteran devops professional on-hand when you need them, drop me a message and let's chat. Primarily, I work remotely from my well-equipped studio in the Eastern Suburbs of Melbourne, but I can be enticed to travel.
+
+Thanks for reading!
+
+Jason
