@@ -11,4 +11,4 @@ Welcome
 
 We assume you're here because you need DevOps, Cloud, CI/CD or Content Services for your web application or site.
 
-Or, perhaps you're here to read some blog posts. If so, simply scroll down
+Or, perhaps you're here to read some blog posts. If so, just look a little further down the page. There you go.
