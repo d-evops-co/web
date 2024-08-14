@@ -10,7 +10,7 @@ We like to keep things simple, so here's the simple "about us" info.
 
 The DevOps Company is run by Jason Brown, a DevOps veteran with a CV as long as your arm. We're small, but flexible. We do DevOps and Web and we want to make the web better with every job we do.
 
-You can send us email on jasbro (at) jasbro.io
+You can send us email on hello (at) d.evops.co
 
 You can get Jason on Mastodon via his Official Account, [CloudyOpsPoet](https://mastodon.social/@cloudyopspoet)
 
