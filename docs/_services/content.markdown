@@ -2,7 +2,7 @@
 name: Content Services
 description: Content Services
 permalink: /services/content/
-introtext: Content is still King, and mastery of language makes for better content
+introtext: Content is still King, and mastery of language makes for better content. We can help.
 ---
 
 Content is still King on the web, and the recent precipitous rise in slush content makes this all the more important.
