@@ -28,7 +28,7 @@ url: "https://d.evops.co/" # the base hostname & protocol for your site, e.g. ht
 github_username:  stopthatastronaut
 
 # Build settings
-theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
 
