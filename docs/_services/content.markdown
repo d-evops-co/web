@@ -9,4 +9,4 @@ Content is still King on the web, and the recent precipitous rise in slush conte
 
 The DevOps company offers competitively-priced editing and proofreading services as well as translation.
 
-We offer Cymraeg/Welsh in-house, and partner with an excellent Sydney-based language educator, [German With Happy](https://www.germanwithhappy.com.au/), for Deutsch/German and Nederlands/Dutch. 
+We offer Cymraeg/Welsh in-house, and partner with an awesome Sydney-based language educator, [German With Happy](https://www.germanwithhappy.com.au/), for Deutsch/German and Nederlands/Dutch. 
